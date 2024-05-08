@@ -1,0 +1,4 @@
+{"message": "hello", "sentiment_scores": {"neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0}}
+{"message": "wow", "sentiment_scores": {"neg": 0.0, "neu": 0.0, "pos": 1.0, "compound": 0.5859}}
+{"message": "iam depressed", "sentiment_scores": {"neg": 0.767, "neu": 0.233, "pos": 0.0, "compound": -0.5106}}
+{"message": "sad", "sentiment_scores": {"neg": 1.0, "neu": 0.0, "pos": 0.0, "compound": -0.4767}}

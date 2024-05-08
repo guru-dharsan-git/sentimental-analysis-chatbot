@@ -1,0 +1,26 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi", "Hello", "Hey", "Good day", "Greetings"
+      ],
+      "responses": ["Hello! Welcome to team Greek. How can I assist you today?"]
+    },
+    {
+      "tag": "sad",
+      "patterns": [
+        "sad", "depressed"
+      ],
+      "responses": ["dont worry. all things will be fine"]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye", "Goodbye", "See you later", "Farewell","take care","thank you"
+      ],
+      "responses": ["Thank you. Have a great day!"]
+    }
+  ]
+}
+
